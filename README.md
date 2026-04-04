@@ -3,7 +3,7 @@
 
 ✅ O jogo está praticamente traduzido. Os problemas de codificação de acentos, por se tratar de um sistema muito antigo, foram resolvidos em cerca de 92,8%.
 
-[Recentes Alterações](https://github.com/thiagor88/Fallout_Tactics_PT_BR/blob/2b37e8f0f03a0984b396ba3a72dd9ad950e0d970/PROGRESSO.md)
+[Recentes Alterações](https://github.com/thiagor88/Fallout_Tactics_PT_BR/blob/2b37e8f0f03a0984b396ba3a72dd9ad950e0d970/CHANGELOG.md)
 
 [Detalhes do Progresso de Tradução](https://github.com/thiagor88/Fallout_Tactics_PT_BR/blob/2b37e8f0f03a0984b396ba3a72dd9ad950e0d970/PROGRESSO.md)
 
