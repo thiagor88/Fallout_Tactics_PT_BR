@@ -10,6 +10,8 @@
 ![fbos0005](https://github.com/user-attachments/assets/07d1fc83-bf39-433d-ba58-8d75258296df)
 ![fbos0004](https://github.com/user-attachments/assets/28a53736-4bbe-4b86-8550-4420bd9b33a6)
 
+❤️ Sobre o Projeto
 
+Este projeto nasceu do desejo de ver o clássico Fallout Tactics totalmente acessível em nosso idioma. Esta é uma tradução feita de fã para fã, dedicada à comunidade brasileira que ainda mantém o espírito do Wasteland vivo.
 
 
