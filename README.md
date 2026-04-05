@@ -1,11 +1,23 @@
+## 🇧🇷 Fallout Tactics — Tradução PT-BR
 
-✅ A ideia inicial do projeto sempre foi fazer a tradução em cima dos mods **Fallout Tactics Redux** + **Equilibrium**, que já corrigem centenas de bugs.
+A proposta inicial deste projeto sempre foi desenvolver a tradução utilizando como base os mods **Fallout Tactics Redux** + **Equilibrium**, que corrigem centenas de bugs, restauram conteúdos e melhoram significativamente a experiência original do jogo.
 
-✅ O jogo está praticamente traduzido. Os problemas de codificação de acentos, por se tratar de um sistema muito antigo, foram resolvidos em cerca de 92,8%.
+✅ O jogo encontra-se praticamente totalmente traduzido.  
+✅ Problemas de codificação de acentos — decorrentes do sistema extremamente antigo do jogo — já foram solucionados em aproximadamente **92,8%**.
 
-[Recentes Alterações](https://github.com/thiagor88/Fallout_Tactics_PT_BR/blob/2b37e8f0f03a0984b396ba3a72dd9ad950e0d970/CHANGELOG.md)
+---
 
-[Detalhes do Progresso de Tradução](https://github.com/thiagor88/Fallout_Tactics_PT_BR/blob/2b37e8f0f03a0984b396ba3a72dd9ad950e0d970/PROGRESSO.md)
+## 📌 Progresso do Projeto
+
+📄 **Alterações Recentes (Changelog)**  
+👉 https://github.com/thiagor88/Fallout_Tactics_PT_BR/blob/2b37e8f0f03a0984b396ba3a72dd9ad950e0d970/CHANGELOG.md
+
+📊 **Detalhes do Progresso da Tradução**  
+👉 https://github.com/thiagor88/Fallout_Tactics_PT_BR/blob/2b37e8f0f03a0984b396ba3a72dd9ad950e0d970/PROGRESSO.md
+
+---
+
+## 🖼️ Screenshots
 
 ![fbos0009](https://github.com/user-attachments/assets/511c54d2-296e-4f5d-a770-0d7e7e87458e)
 ![fbos0008](https://github.com/user-attachments/assets/c7bcdb9d-668c-4652-b3b6-8f571acb1faf)
@@ -14,8 +26,23 @@
 ![fbos0005](https://github.com/user-attachments/assets/07d1fc83-bf39-433d-ba58-8d75258296df)
 ![fbos0004](https://github.com/user-attachments/assets/28a53736-4bbe-4b86-8550-4420bd9b33a6)
 
-❤️ Sobre o Projeto
+---
 
-Este projeto nasceu do desejo de ver o clássico Fallout Tactics totalmente acessível em nosso idioma. Esta é uma tradução feita de fã para fã, dedicada à comunidade brasileira que ainda mantém o espírito do Wasteland vivo.
+## ❤️ Sobre o Projeto
 
+Este projeto nasceu do desejo de tornar **Fallout Tactics** totalmente acessível ao público brasileiro.
 
+Trata-se de uma tradução **de fã para fã**, criada com respeito ao material original e dedicada à comunidade que mantém o espírito do Wasteland vivo até hoje.
+
+O objetivo é preservar o clássico, corrigir limitações técnicas e oferecer a melhor experiência possível em português do Brasil.
+
+---
+
+## 🌎 Contato
+
+💬 Reddit: https://reddit.com/u/thiagor88  
+🐦 Twitter/X: https://twitter.com/thiagor88_dev
+
+---
+
+⭐ Se o projeto for útil para você, considere dar uma estrela no repositório!
