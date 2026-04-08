@@ -8,3 +8,6 @@
 - revisão geral e correções (pasta game)
 ## 03/04/2026
 - correção em alguns textos (pasta game)
+## 07/04/2026
+- revisão e finalização dos arquivos
+- MIS_01_Speech.txt e Bunker01.txt
