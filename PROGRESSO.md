@@ -41,14 +41,14 @@
 ## 📁 MISSIONS (Campanha)
 
 ### Bunkers
-* Bunker01.txt — ✅  
+* Bunker01.txt — ✅✔️ 
 * Bunker02.txt — ✅  
 * Bunker03.txt — ✅  
 * Bunker04.txt — ✅  
 * Bunker05.txt — ✅  
 
 ### Missões Principais
-* MIS_01_Speech.txt — ✅🔎 Revisão -🎮 In-Game 
+* MIS_01_Speech.txt — ✅✔️
 * MIS_02_Speech.txt — ✅  
 * MIS_03_Speech.txt — ✅  
 * MIS_04_Speech.txt — ✅  
