@@ -33,8 +33,8 @@
 | Arquivo | Status |
 | :--- | :--- |
 | credits.txt | ⬜ Pendente |
-| gui_text.txt | ✅ 🔎 Revisão | -🎮 In-Game
-| help.txt | ✅ 🔎 Revisão | -🎮 In-Game
+| gui_text.txt | ✅✔️
+| help.txt | ✅✔️
 
 ---
 
@@ -49,7 +49,7 @@
 
 ### Missões Principais
 * MIS_01_Speech.txt — ✅✔️
-* MIS_02_Speech.txt — ✅  
+* MIS_02_Speech.txt — ✅✔️  
 * MIS_03_Speech.txt — ✅  
 * MIS_04_Speech.txt — ✅  
 * MIS_05_Speech.txt — ✅  
@@ -74,10 +74,10 @@
 ---
 
 ### Tutoriais
-* tutorial1.txt — ✅  
-* Tut2a.txt — ✅  
-* Tut2b.txt — ✅  
-* Tut2c.txt — ✅  
+* tutorial1.txt — ✅✔️  
+* Tut2a.txt — ✅✔️  
+* Tut2b.txt — ✅✔️  
+* Tut2c.txt — ✅✔️  
 
 ---
 
