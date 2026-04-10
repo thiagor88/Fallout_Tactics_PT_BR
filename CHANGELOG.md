@@ -11,3 +11,9 @@
 ## 07/04/2026
 - revisão e finalização dos arquivos
 - MIS_01_Speech.txt e Bunker01.txt
+## 10/04/2026
+- finalização de revisão e pequenos ajustes:
+- MIS_02_Speech.txt
+- Tut2a.txt
+- Tut2b.txt
+- Tut2c.txt
