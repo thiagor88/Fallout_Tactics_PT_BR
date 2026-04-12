@@ -17,3 +17,5 @@
 - Tut2a.txt
 - Tut2b.txt
 - Tut2c.txt
+## 12/04/2026
+- revisão e tradução finalizada da pasta "unique"
