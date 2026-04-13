@@ -47,10 +47,10 @@ Juntos, esses mods + a tradução PT-BR entregam a versão mais completa e polid
 > ⚠️ O sistema de codificação de caracteres do jogo é extremamente antigo, o que torna a correção de acentos e caracteres especiais um desafio técnico. Já foram resolvidos aproximadamente **92,8%** dos problemas de encoding identificados.
 
 📄 **Changelog completo:**
-👉 [Ver alterações recentes](https://github.com/thiagor88/Fallout_Tactics_PT_BR/blob/2b37e8f0f03a0984b396ba3a72dd9ad950e0d970/CHANGELOG.md)
+👉 [Ver alterações recentes](https://github.com/thiagor88/Fallout_Tactics_PT_BR/blob/main/CHANGELOG.md)
 
 📊 **Detalhes do progresso por arquivo:**
-👉 [Ver progresso detalhado](https://github.com/thiagor88/Fallout_Tactics_PT_BR/blob/2b37e8f0f03a0984b396ba3a72dd9ad950e0d970/PROGRESSO.md)
+👉 [Ver progresso detalhado](https://github.com/thiagor88/Fallout_Tactics_PT_BR/blob/main/PROGRESSO.md)
 
 ---
 
