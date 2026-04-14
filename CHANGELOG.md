@@ -19,3 +19,6 @@
 - Tut2c.txt
 ## 12/04/2026
 - revisão e tradução finalizada da pasta "unique"
+## 13/04/2026
+- correção de erros nos arquivos gui_text e items
+- revisão e tradução finalizada dos arquivos mis_03_speech e mis_04_speech
