@@ -22,3 +22,8 @@
 ## 13/04/2026
 - correção de erros nos arquivos gui_text e items
 - revisão e tradução finalizada dos arquivos mis_03_speech e mis_04_speech
+## 16/04/2026
+- pequenas correções em arquivos (gui_text.txt)
+## 18/04/2026
+- revisão e correção de erros em vários arquivos da pasta (missions)
+- revisão dos arquivos das MIS_01_Speech.txt ao MIS_010_Speech.txt
