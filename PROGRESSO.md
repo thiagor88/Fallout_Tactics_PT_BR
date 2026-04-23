@@ -6,25 +6,25 @@
 
 | Arquivo | Status |
 | :--- | :--- |
-| ammo.txt | ✅ 🔎 Revisão | -🎮 In-Game
-| badwords.txt | ✅ 🔎 Revisão | -🎮 In-Game
-| category.txt | ✅ 🔎 Revisão | -🎮 In-Game
-| characters.txt | ✅ 🔎 Revisão | -🎮 In-Game
-| chems.txt | ✅ 🔎 Revisão | -🎮 In-Game
-| combat.txt | ✅ 🔎 Revisão | -🎮 In-Game
-| encounters.txt | ✅ 🔎 Revisão | -🎮 In-Game
-| generic_mission.txt | ✅ 🔎 Revisão | -🎮 In-Game
-| items.txt | ✅ 🔎 Revisão | -🎮 In-Game
-| misc.txt | ✅ 🔎 Revisão | -🎮 In-Game
-| perk.txt | ✅ 🔎 Revisão | -🎮 In-Game
-| race.txt | ✅ 🔎 Revisão | -🎮 In-Game
-| reason.txt | ✅ 🔎 Revisão | -🎮 In-Game
-| skill.txt | ✅ 🔎 Revisão | -🎮 In-Game
-| stat.txt | ✅ 🔎 Revisão | -🎮 In-Game
-| stat_deep_seek.txt | ✅ 🔎 Revisão | -🎮 In-Game
-| taunts.txt | ✅ 🔎 Revisão | -🎮 In-Game
-| trait.txt | ✅ 🔎 Revisão | -🎮 In-Game
-| weapon.txt | ✅ 🔎 Revisão | -🎮 In-Game
+| ammo.txt | ✅ 🔎 Revisão | -🎮
+| badwords.txt | ✅ 🔎 Revisão | -🎮
+| category.txt | ✅ 🔎 Revisão | -🎮 
+| characters.txt | ✅ 🔎 Revisão | -🎮
+| chems.txt | ✅ 🔎 Revisão | -🎮
+| combat.txt | ✅✔️
+| encounters.txt | ✅✔️
+| generic_mission.txt | ✅✔️🎮  
+| items.txt | ✅ 🔎 Revisão | -🎮 
+| misc.txt | ✅ 🔎 Revisão | -🎮 
+| perk.txt | ✅ 🔎 Revisão | -🎮 
+| race.txt | ✅ 🔎 Revisão | -🎮 
+| reason.txt | ✅ 🔎 Revisão | -🎮 
+| skill.txt | ✅ 🔎 Revisão | -🎮 
+| stat.txt | ✅ 🔎 Revisão | -🎮 
+| stat_deep_seek.txt | ✅ 🔎 Revisão -🎮 
+| taunts.txt | ✅ 🔎 Revisão | -🎮
+| trait.txt | ✅ 🔎 Revisão | -🎮 
+| weapon.txt | ✅ 🔎 Revisão | -🎮 
 
 ---
 
@@ -50,7 +50,7 @@
 ### Missões Principais
 * MIS_01_Speech.txt — ✅✔️🎮
 * MIS_02_Speech.txt — ✅✔️🎮  
-* MIS_03_Speech.txt — ✅✔️  
+* MIS_03_Speech.txt — ✅✔️🎮  
 * MIS_04_Speech.txt — ✅✔️  
 * MIS_05_Speech.txt — ✅✔️  
 * MIS_06_Speech.txt — ✅✔️  
