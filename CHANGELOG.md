@@ -27,3 +27,7 @@
 ## 18/04/2026
 - revisão e correção de erros em vários arquivos da pasta (missions)
 - revisão dos arquivos das MIS_01_Speech.txt ao MIS_010_Speech.txt
+## 22/04/2026
+- revisão nos arquivos items.txt e perk.txt
+## 23/04/2026
+- revisão e correção de erros nos arquivos, gui_text.txt, encounters.txt, combat.txt, generic_mission.txt
